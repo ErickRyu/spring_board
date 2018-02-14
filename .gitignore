@@ -1,0 +1,22 @@
+# Spring-mvc
+*.DS_Store
+bin
+target
+.classpath
+.project
+.settings
+src/main/webapp/META-INF
+.idea
+*.iml
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
